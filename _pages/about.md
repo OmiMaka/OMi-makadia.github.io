@@ -8,8 +8,6 @@ redirect_from:
 ---
 I'm pursuing my PhD in Electrical and Computer Engineering. 
 
-My research objective is Artificial Intelligence for Wireless Communication!
-
 Professional Experience
 ======
 Currently, I am a Graduate Research Assistant at the **Sensing and Reasoning lab** working with [Prof.Jorge](https://snr.rutgers.edu/) at Rutgers University. 
