@@ -12,12 +12,10 @@ My research objective is Artificial Intelligence for Wireless Communication!
 
 Professional Experience
 ======
-Currently, I am working as a **Graduate Research Assistant** at Sensing and Reasoning lab working with [Prof.Jorge](https://snr.rutgers.edu/)  at Rutgers University. 
+Currently, I am a Graduate Research Assistant at the **Sensing and Reasoning lab** working with [Prof.Jorge](https://snr.rutgers.edu/) at Rutgers University. 
 
-My research explores AI/ML-driven direction-of-arrival estimation and interference nulling for next-generation wireless systems built on reflective intelligent surfaces and passive backscatter tags, supported by funding from the National Science Foundation. This line of work has shaped two upcoming contributions at top-tier IEEE venues — **ICASSP and MILCOM** — spanning reinforcement learning under distribution shifts and Cramér–Rao-bounded multi-source estimation with passive arrays.
+My research focuses on multimodal learning for physical AI, systems that perceive the world through many sensors, such as cameras, thermal, depth, and audio. I study how large pretrained vision-language and multimodal models can be adapted to new tasks and data without being retrained, and the geometry of the embedding spaces that connect these modalities. I am also interested in how multimodal perception scales to multi-agent systems, where several agents share and combine what each one senses. 
 
-Before joining Rutgers, during my undergraduate years at Ahmedabad University, I worked as an **Undergraduate Researcher** at the Machine Intelligence, Computing, and xG Networks (MICxN) Laboratory, where I led independent research in collaboration with SVNIT and IIT Bombay at the intersection of machine learning and 6G wireless communications.
+I come to these problems from a background in statistical signal processing. In earlier work supported by the National Science Foundation, I studied AI/ML-driven direction-of-arrival estimation and interference nulling for next-generation wireless systems. This led to papers at ICASSP and MILCOM.
 
-Additionally, I have professional experience presenting peer-reviewed research at premier IEEE conferences, including **PIMRC**, where I introduced a Tabular GAN-based framework for mmWave beam prediction under class imbalance, and **COMSNETS**, where I proposed a location-aided beam forecasting methodology for connected vehicles using Random Forests and LSTMs.
-
-
+Before joining Rutgers, I was an Undergraduate Researcher at the Machine Intelligence, Computing, and xG Networks (MICxN) Laboratory at Ahmedabad University, where I worked with SVNIT and IIT Bombay on machine learning for 6G wireless communications. I have presented peer-reviewed work at IEEE PIMRC and COMSNETS.
