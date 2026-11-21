@@ -12,7 +12,7 @@ My research objective is Artificial Intelligence for Wireless Communication!
 
 Professional Experience
 ======
-Currently, I am working as a **Graduate Research Assistant** at the Wireless Information Network Laboratory (WINLAB) at Rutgers University. 
+Currently, I am working as a **Graduate Research Assistant** at Sensing and Reasoning lab working with [Prof.Jorge](https://snr.rutgers.edu/)  at Rutgers University. 
 
 My research explores AI/ML-driven direction-of-arrival estimation and interference nulling for next-generation wireless systems built on reflective intelligent surfaces and passive backscatter tags, supported by funding from the National Science Foundation. This line of work has shaped two upcoming contributions at top-tier IEEE venues — **ICASSP and MILCOM** — spanning reinforcement learning under distribution shifts and Cramér–Rao-bounded multi-source estimation with passive arrays.
 
