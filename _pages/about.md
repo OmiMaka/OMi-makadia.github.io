@@ -10,7 +10,7 @@ I'm pursuing my PhD in Electrical and Computer Engineering.
 
 Professional Experience
 ======
-Currently, I am a Graduate Research Assistant at the **Sensing and Reasoning lab** working with [Prof.Jorge](https://snr.rutgers.edu/) at Rutgers University. 
+Currently, I am a Graduate Research Assistant at the **Sensing and Reasoning lab** working with [Prof.Jorge Ortiz](https://snr.rutgers.edu/) at Rutgers University. 
 
 My research focuses on multimodal learning for physical AI, systems that perceive the world through many sensors, such as cameras, thermal, depth, and audio. I study how large pretrained vision-language and multimodal models can be adapted to new tasks and data without being retrained, and the geometry of the embedding spaces that connect these modalities. I am also interested in how multimodal perception scales to multi-agent systems, where several agents share and combine what each one senses. 
 
